@@ -55,8 +55,8 @@ elif(app_mode=="About"):
                 This dataset was generated through offline augmentation from the original dataset, which is available on this GitHub repo. It comprises 26,503 RGB images of healthy and diseased tomato leaves, categorized into 10 classes. The dataset is split 80/20 into training and validation sets, with 21,043 images (80%) for training and 5,460 images (20%) for validation, maintaining the directory structure.
 
                 The dataset combines two sources:
-                Kaggle: https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/data
-                Kaggle: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
+                https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/data
+                https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
                 
                 A separate directory with 16 test images was created for prediction purposes.
                 
